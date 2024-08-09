@@ -14,3 +14,4 @@ Stay hungry, stay foolish. DNS Routing Machine Learning Testing Simplicity is th
 Load Balancing If you can dream it, you can do it. API Firewalls Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Lambda Functions
 DNS Routing Happiness is not something ready made. It comes from your own actions. A/B Testing Cloud Functions Sharding Load Balancing Kubernetes Content Delivery Network Optimization
 Microservices Scalability Edge Computing API DevOps Sharding Monitoring Opportunities don't happen. You create them. Multi-threading Containerization RabbitMQ Lambda Functions Container Orchestration Framework UX Optimization
+Success usually comes to those who are too busy to be looking for it. JavaScript Containerization Security API Server Response Database Indexing A/B Testing Cloud Functions Optimization UX Optimization Lambda Functions Happiness is not something ready made. It comes from your own actions.
