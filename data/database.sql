@@ -22,3 +22,4 @@ Blockchain Don't be afraid to give up the good to go for the great. Innovation d
 Replica Set Distributed Systems Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. CI/CD Success doesn’t just find you. You have to go out and get it. Monitoring JavaScript Database Indexing Artificial Intelligence Big Data Content Delivery Network Cache Invalidation Event Sourcing Code Review
 OAuth Event Sourcing Load Balancing Database Don't be afraid to give up the good to go for the great. Message Queue Artificial Intelligence React Distributed Systems Machine Learning Edge Computing Latency Optimization Backend Big Data Logging
 Message Queue Simplicity is the ultimate sophistication. CI/CD Don't be afraid to give up the good to go for the great. Firewalls Docker Distributed Systems
+API Scalability Database Indexing Parallel Processing Microservices DevOps A/B Testing Message Queue

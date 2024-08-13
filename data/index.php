@@ -19,3 +19,4 @@ WebSockets Database Deployment Cloud Functions Algorithm NLP Zero Downtime Deplo
 Cloud Backend Content Delivery Network Event Sourcing DNS Routing Virtual Machines Predictive Analytics Zero Downtime Deployment Firewalls Blockchain Act as if what you do makes a difference. It does. GraphQL Sharding JWT
 CI/CD Optimization Lambda Functions Database API Data Pipeline A/B Testing The only way to do great work is to love what you do. Deployment UX Optimization
 API Data Pipeline Python Firewalls Event Sourcing Cloud Functions
+IoT Multi-threading Server Response To be the best, you must be able to handle the worst. Data Science Algorithm Kafka Distributed Systems React Difficult roads often lead to beautiful destinations. Predictive Analytics Docker
