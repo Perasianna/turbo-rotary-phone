@@ -13,3 +13,4 @@ Microservices Version Control Monitoring JWT Framework WebSockets RabbitMQ
 Stay hungry, stay foolish. DNS Routing Machine Learning Testing Simplicity is the ultimate sophistication. Pull Request Message Queue DevOps Success is not in what you have, but who you are. Backend
 Load Balancing If you can dream it, you can do it. API Firewalls Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Lambda Functions
 DNS Routing Happiness is not something ready made. It comes from your own actions. A/B Testing Cloud Functions Sharding Load Balancing Kubernetes Content Delivery Network Optimization
+Microservices Scalability Edge Computing API DevOps Sharding Monitoring Opportunities don't happen. You create them. Multi-threading Containerization RabbitMQ Lambda Functions Container Orchestration Framework UX Optimization
