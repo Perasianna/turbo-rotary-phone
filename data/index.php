@@ -18,3 +18,4 @@ If you can dream it, you can do it. Zero Downtime Deployment Frontend Distribute
 WebSockets Database Deployment Cloud Functions Algorithm NLP Zero Downtime Deployment
 Cloud Backend Content Delivery Network Event Sourcing DNS Routing Virtual Machines Predictive Analytics Zero Downtime Deployment Firewalls Blockchain Act as if what you do makes a difference. It does. GraphQL Sharding JWT
 CI/CD Optimization Lambda Functions Database API Data Pipeline A/B Testing The only way to do great work is to love what you do. Deployment UX Optimization
+API Data Pipeline Python Firewalls Event Sourcing Cloud Functions
