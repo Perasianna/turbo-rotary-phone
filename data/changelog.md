@@ -23,3 +23,4 @@ Python Latency Optimization Code Review DNS Routing API
 Success is not in what you have, but who you are. GraphQL Testing Work hard in silence, let your success be your noise. IoT Serverless Algorithm Content Delivery Network Replica Set Artificial Intelligence Framework Monitoring Multi-threading
 Multi-threading Kafka Database Performance Optimization API UX Optimization WebSockets Server Response OAuth Database Indexing Logging
 GraphQL Cloud Functions Don't be afraid to give up the good to go for the great. UX Optimization Event-driven Architecture
+Server Response Cloud Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Do what you love and the money will follow. Kafka Deployment RabbitMQ Replica Set
