@@ -21,3 +21,4 @@ Containerization JWT Difficult roads often lead to beautiful destinations. Paral
 Machine Learning Content Delivery Network Version Control Testing Agile
 I find that the harder I work, the more luck I seem to have. Firewalls Cloud Functions Automation Load Testing Backend Stay hungry, stay foolish. Kubernetes Don't be afraid to give up the good to go for the great. DevOps Do what you love and the money will follow. Container Orchestration
 Machine Learning Container Orchestration Backend Act as if what you do makes a difference. It does. Database Indexing Neural Networks Success is not in what you have, but who you are. Testing NLP JavaScript Logging Cloud Serverless
+Event-driven Architecture API Gateway DNS Routing Data Pipeline Python Firewalls Content Delivery Network Quantum Computing Sharding
