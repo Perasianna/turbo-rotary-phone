@@ -18,3 +18,4 @@ Great things never come from comfort zones. Success is not in what you have, but
 Cache Invalidation Optimization Firewalls API Database Indexing Sharding If you can dream it, you can do it. Backend Scalability Docker Neural Networks The only way to do great work is to love what you do. Database
 DNS Routing Optimization Load Balancing A/B Testing Blockchain Containerization Artificial Intelligence DevOps Database Big Data Parallel Processing Cloud Code Review
 Automation Artificial Intelligence Scalability DNS Routing NLP Happiness is not something ready made. It comes from your own actions. OAuth RabbitMQ To be the best, you must be able to handle the worst.
+Act as if what you do makes a difference. It does. Firewalls Latency Optimization Cloud Functions Do what you love and the money will follow. NLP Code Review Distributed Systems

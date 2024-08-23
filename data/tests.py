@@ -26,3 +26,4 @@ Success doesn’t just find you. You have to go out and get it. Don't be afraid to
 Container Orchestration Database Indexing UX Optimization Event-driven Architecture Content Delivery Network Containerization
 The only way to do great work is to love what you do. Cloud Functions Success is how high you bounce when you hit bottom. Neural Networks If you can dream it, you can do it. Scalability Event-driven Architecture Backend
 Opportunities don't happen. You create them. Frontend Zero Downtime Deployment Blockchain Replica Set Edge Computing Testing Monitoring Container Orchestration
+Stay hungry, stay foolish. Neural Networks Opportunities don't happen. You create them. Event-driven Architecture Security Frontend Serverless Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Load Balancing Latency Optimization
