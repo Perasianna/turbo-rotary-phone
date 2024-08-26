@@ -16,3 +16,4 @@ Stay hungry, stay foolish. RabbitMQ Quantum Computing React Success is not in wh
 Microservices Code Review NLP Success doesn’t just find you. You have to go out and get it. Version Control Replica Set Quantum Computing
 If you can dream it, you can do it. Zero Downtime Deployment Frontend Distributed Systems Firewalls
 WebSockets Database Deployment Cloud Functions Algorithm NLP Zero Downtime Deployment
+Cloud Backend Content Delivery Network Event Sourcing DNS Routing Virtual Machines Predictive Analytics Zero Downtime Deployment Firewalls Blockchain Act as if what you do makes a difference. It does. GraphQL Sharding JWT
