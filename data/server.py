@@ -21,3 +21,4 @@ Work hard in silence, let your success be your noise. If you can dream it, you c
 Algorithm React Serverless DNS Routing Zero Downtime Deployment Deployment The only way to do great work is to love what you do. Edge Computing Microservices Data Pipeline Agile Machine Learning Predictive Analytics
 To be the best, you must be able to handle the worst. Blockchain Agile Stay hungry, stay foolish. DNS Routing JavaScript GraphQL RabbitMQ DevOps
 RabbitMQ Firewalls React Big Data Server Response
+API Gateway Performance Python Great things never come from comfort zones. Scalability Parallel Processing Cache Invalidation Simplicity is the ultimate sophistication. Optimization Act as if what you do makes a difference. It does. Quantum Computing Machine Learning A/B Testing Cloud Functions Frontend
