@@ -22,3 +22,4 @@ Algorithm React Serverless DNS Routing Zero Downtime Deployment Deployment The o
 To be the best, you must be able to handle the worst. Blockchain Agile Stay hungry, stay foolish. DNS Routing JavaScript GraphQL RabbitMQ DevOps
 RabbitMQ Firewalls React Big Data Server Response
 API Gateway Performance Python Great things never come from comfort zones. Scalability Parallel Processing Cache Invalidation Simplicity is the ultimate sophistication. Optimization Act as if what you do makes a difference. It does. Quantum Computing Machine Learning A/B Testing Cloud Functions Frontend
+Do what you love and the money will follow. Virtual Machines OAuth Success is not in what you have, but who you are. Latency Optimization Blockchain Container Orchestration Scalability Success is how high you bounce when you hit bottom. Sharding If you can dream it, you can do it. Work hard in silence, let your success be your noise. Containerization Monitoring
