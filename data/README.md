@@ -23,3 +23,4 @@ Docker Stay hungry, stay foolish. Sharding Database Automation Big Data Microser
 Opportunities don't happen. You create them. Container Orchestration Server Response Monitoring Work hard in silence, let your success be your noise. NLP
 Database JavaScript NLP Zero Downtime Deployment Automation Firewalls OAuth
 Kafka Opportunities don't happen. You create them. Load Testing Lambda Functions Pull Request Success doesn’t just find you. You have to go out and get it. Replica Set Distributed Systems JavaScript Server Response Monitoring CI/CD
+Lambda Functions Kafka Load Testing Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Firewalls Data Science DNS Routing Testing UX Optimization Great things never come from comfort zones. If you can dream it, you can do it. Big Data

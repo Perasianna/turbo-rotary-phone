@@ -18,3 +18,4 @@ Load Balancing Automation Simplicity is the ultimate sophistication. Happiness i
 Artificial Intelligence Happiness is not something ready made. It comes from your own actions. API Gateway Framework Logging I find that the harder I work, the more luck I seem to have. Serverless
 NLP Simplicity is the ultimate sophistication. Neural Networks To be the best, you must be able to handle the worst. API Data Pipeline GraphQL Algorithm Quantum Computing Containerization
 Containerization JWT Difficult roads often lead to beautiful destinations. Parallel Processing Lambda Functions Neural Networks Performance Great things never come from comfort zones. Opportunities don't happen. You create them. React Frontend Do what you love and the money will follow.
+Machine Learning Content Delivery Network Version Control Testing Agile
