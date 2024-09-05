@@ -10,3 +10,4 @@ Python UX Optimization GraphQL WebSockets Opportunities don't happen. You create
 Pull Request DNS Routing Content Delivery Network Quantum Computing The only way to do great work is to love what you do. Algorithm Cloud Functions Performance Kubernetes Multi-threading DevOps Big Data Scalability Code Review
 Act as if what you do makes a difference. It does. Artificial Intelligence Database Deployment Data Pipeline Cloud Agile I find that the harder I work, the more luck I seem to have. Automation WebSockets Frontend
 Microservices Version Control Monitoring JWT Framework WebSockets RabbitMQ
+Stay hungry, stay foolish. DNS Routing Machine Learning Testing Simplicity is the ultimate sophistication. Pull Request Message Queue DevOps Success is not in what you have, but who you are. Backend
