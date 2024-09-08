@@ -15,3 +15,4 @@ Dream big and dare to fail. Framework Parallel Processing Artificial Intelligenc
 Stay hungry, stay foolish. RabbitMQ Quantum Computing React Success is not in what you have, but who you are. Kubernetes Multi-threading Database Indexing Edge Computing NLP
 Microservices Code Review NLP Success doesn’t just find you. You have to go out and get it. Version Control Replica Set Quantum Computing
 If you can dream it, you can do it. Zero Downtime Deployment Frontend Distributed Systems Firewalls
+WebSockets Database Deployment Cloud Functions Algorithm NLP Zero Downtime Deployment
