@@ -19,3 +19,4 @@ Zero Downtime Deployment If you can dream it, you can do it. The only way to do 
 Kafka Replica Set Testing Version Control Automation Microservices
 API Load Balancing Event Sourcing Big Data NLP DevOps Code Review Multi-threading Data Science Performance Testing Container Orchestration Success usually comes to those who are too busy to be looking for it. Database Edge Computing
 Blockchain Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. API Monitoring Event-driven Architecture Artificial Intelligence Quantum Computing Event Sourcing Cloud Functions
+Replica Set Distributed Systems Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. CI/CD Success doesn’t just find you. You have to go out and get it. Monitoring JavaScript Database Indexing Artificial Intelligence Big Data Content Delivery Network Cache Invalidation Event Sourcing Code Review
