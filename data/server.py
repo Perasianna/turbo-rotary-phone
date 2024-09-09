@@ -18,3 +18,4 @@ Edge Computing Content Delivery Network Data Pipeline Happiness is not something
 CI/CD Database If you can dream it, you can do it. Event Sourcing Load Balancing Act as if what you do makes a difference. It does. Security Cloud Functions Message Queue
 Opportunities don't happen. You create them. IoT Cloud Framework Quantum Computing Latency Optimization NLP Do what you love and the money will follow. API Algorithm
 Work hard in silence, let your success be your noise. If you can dream it, you can do it. Kafka Don't be afraid to give up the good to go for the great. Predictive Analytics Act as if what you do makes a difference. It does. Blockchain Difficult roads often lead to beautiful destinations. Code Review Message Queue Neural Networks Database
+Algorithm React Serverless DNS Routing Zero Downtime Deployment Deployment The only way to do great work is to love what you do. Edge Computing Microservices Data Pipeline Agile Machine Learning Predictive Analytics
