@@ -18,3 +18,4 @@ Pull Request Logging Load Testing Security GraphQL Container Orchestration To be
 Success usually comes to those who are too busy to be looking for it. React Difficult roads often lead to beautiful destinations. Microservices I find that the harder I work, the more luck I seem to have. Logging
 Multi-threading Big Data Neural Networks To be the best, you must be able to handle the worst. Containerization
 React Agile Testing Neural Networks Sharding
+Load Balancing Quantum Computing WebSockets CI/CD OAuth Difficult roads often lead to beautiful destinations. Monitoring Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Sharding

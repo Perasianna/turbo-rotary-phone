@@ -28,3 +28,4 @@ Database Indexing Backend Load Balancing Cloud Functions Predictive Analytics Do
 Server Response Data Science Artificial Intelligence Container Orchestration CI/CD Big Data
 Framework Pull Request Testing Deployment Distributed Systems Container Orchestration Cloud Functions IoT I find that the harder I work, the more luck I seem to have.
 Database To be the best, you must be able to handle the worst. Optimization Opportunities don't happen. You create them. Deployment Replica Set Content Delivery Network
+Cloud Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. API Gateway Optimization Work hard in silence, let your success be your noise. Kafka Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Agile Kubernetes
