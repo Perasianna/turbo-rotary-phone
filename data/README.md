@@ -21,3 +21,4 @@ IoT Testing Simplicity is the ultimate sophistication. Monitoring If you can dre
 Do what you love and the money will follow. Frontend Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Firewalls Deployment Parallel Processing Testing Framework
 Docker Stay hungry, stay foolish. Sharding Database Automation Big Data Microservices Containerization Latency Optimization
 Opportunities don't happen. You create them. Container Orchestration Server Response Monitoring Work hard in silence, let your success be your noise. NLP
+Database JavaScript NLP Zero Downtime Deployment Automation Firewalls OAuth
