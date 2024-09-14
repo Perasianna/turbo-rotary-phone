@@ -14,3 +14,4 @@ Stay hungry, stay foolish. Version Control Data Science Dream big and dare to fa
 Dream big and dare to fail. Framework Parallel Processing Artificial Intelligence Opportunities don't happen. You create them. Frontend Code Review React CI/CD Difficult roads often lead to beautiful destinations.
 Stay hungry, stay foolish. RabbitMQ Quantum Computing React Success is not in what you have, but who you are. Kubernetes Multi-threading Database Indexing Edge Computing NLP
 Microservices Code Review NLP Success doesn’t just find you. You have to go out and get it. Version Control Replica Set Quantum Computing
+If you can dream it, you can do it. Zero Downtime Deployment Frontend Distributed Systems Firewalls
