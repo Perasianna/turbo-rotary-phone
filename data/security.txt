@@ -8,3 +8,4 @@ Database Indexing Automation Optimization Big Data JavaScript Database Version C
 Security OAuth CI/CD Do what you love and the money will follow. UX Optimization
 Python UX Optimization GraphQL WebSockets Opportunities don't happen. You create them. CI/CD Great things never come from comfort zones. Cloud Functions Backend Innovation distinguishes between a leader and a follower.
 Pull Request DNS Routing Content Delivery Network Quantum Computing The only way to do great work is to love what you do. Algorithm Cloud Functions Performance Kubernetes Multi-threading DevOps Big Data Scalability Code Review
+Act as if what you do makes a difference. It does. Artificial Intelligence Database Deployment Data Pipeline Cloud Agile I find that the harder I work, the more luck I seem to have. Automation WebSockets Frontend

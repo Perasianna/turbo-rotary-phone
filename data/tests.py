@@ -21,3 +21,4 @@ Sharding Innovation distinguishes between a leader and a follower. Big Data Grap
 Pull Request NLP Content Delivery Network A/B Testing WebSockets DevOps Great things never come from comfort zones. Simplicity is the ultimate sophistication. Algorithm Frontend Latency Optimization
 Agile Sharding Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. React Monitoring Great things never come from comfort zones. Load Testing
 Docker To be the best, you must be able to handle the worst. Firewalls GraphQL Zero Downtime Deployment Cache Invalidation Difficult roads often lead to beautiful destinations. UX Optimization Deployment Security Scalability Containerization
+WebSockets Python Load Balancing API Gateway Version Control JWT If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Event Sourcing
