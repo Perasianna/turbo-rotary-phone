@@ -21,3 +21,4 @@ Parallel Processing API Gateway The only way to do great work is to love what yo
 Don't be afraid to give up the good to go for the great. Agile Zero Downtime Deployment Machine Learning Success usually comes to those who are too busy to be looking for it. Cloud Functions Performance
 Automation GraphQL Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Dream big and dare to fail. Quantum Computing Server Response I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great.
 Deployment Message Queue DevOps API WebSockets Quantum Computing Backend Dream big and dare to fail.
+IoT JavaScript Event Sourcing Firewalls API Gateway Latency Optimization GraphQL Big Data Performance Blockchain

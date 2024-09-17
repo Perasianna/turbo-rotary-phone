@@ -17,3 +17,4 @@ Data Science Success is how high you bounce when you hit bottom. If you can drea
 Success doesn’t just find you. You have to go out and get it. API Act as if what you do makes a difference. It does. Automation Happiness is not something ready made. It comes from your own actions.
 Zero Downtime Deployment If you can dream it, you can do it. The only way to do great work is to love what you do. NLP Message Queue Act as if what you do makes a difference. It does. UX Optimization Kubernetes CI/CD
 Kafka Replica Set Testing Version Control Automation Microservices
+API Load Balancing Event Sourcing Big Data NLP DevOps Code Review Multi-threading Data Science Performance Testing Container Orchestration Success usually comes to those who are too busy to be looking for it. Database Edge Computing

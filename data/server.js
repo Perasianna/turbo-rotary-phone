@@ -21,3 +21,4 @@ Innovation distinguishes between a leader and a follower. Logging Do what you lo
 Quantum Computing Artificial Intelligence Testing Data Science Algorithm Agile OAuth GraphQL Don't be afraid to give up the good to go for the great. Database
 Data Pipeline Docker Containerization Cache Invalidation Great things never come from comfort zones.
 Simplicity is the ultimate sophistication. Containerization Testing Difficult roads often lead to beautiful destinations. IoT Opportunities don't happen. You create them. Server Response The only way to do great work is to love what you do. Kafka
+Serverless Content Delivery Network Big Data Monitoring Load Testing Server Response Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions.
