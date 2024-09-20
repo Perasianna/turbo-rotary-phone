@@ -17,3 +17,4 @@ CI/CD Frontend Automation Algorithm Load Testing Blockchain Big Data Scalability
 Content Delivery Network Success doesn’t just find you. You have to go out and get it. React Parallel Processing Monitoring
 Replica Set WebSockets Artificial Intelligence Edge Computing Deployment Algorithm Load Balancing Distributed Systems Multi-threading Do what you love and the money will follow.
 Success is how high you bounce when you hit bottom. API If you can dream it, you can do it. Agile Kafka To be the best, you must be able to handle the worst. React Python Message Queue Frontend Success usually comes to those who are too busy to be looking for it.
+Cloud Container Orchestration Firewalls Act as if what you do makes a difference. It does. NLP Sharding OAuth Virtual Machines Backend Algorithm Testing
