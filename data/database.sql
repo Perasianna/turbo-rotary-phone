@@ -16,3 +16,4 @@ GraphQL IoT Data Science Stay hungry, stay foolish. Docker Load Balancing Neural
 Data Science Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Dream big and dare to fail. A/B Testing The only way to do great work is to love what you do. Sharding Load Balancing Great things never come from comfort zones. Blockchain
 Success doesn’t just find you. You have to go out and get it. API Act as if what you do makes a difference. It does. Automation Happiness is not something ready made. It comes from your own actions.
 Zero Downtime Deployment If you can dream it, you can do it. The only way to do great work is to love what you do. NLP Message Queue Act as if what you do makes a difference. It does. UX Optimization Kubernetes CI/CD
+Kafka Replica Set Testing Version Control Automation Microservices

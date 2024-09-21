@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. Quantum Computing 
 Big Data Act as if what you do makes a difference. It does. Performance Parallel Processing Frontend Data Pipeline Logging Cache Invalidation Database Serverless Microservices IoT API Gateway Code Review
 Microservices Event Sourcing Cloud Functions Algorithm JWT OAuth Success is not in what you have, but who you are. Message Queue IoT Neural Networks Distributed Systems DevOps Don't be afraid to give up the good to go for the great.
 Machine Learning Lambda Functions Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Agile Replica Set Firewalls Cache Invalidation
+JavaScript Big Data Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. UX Optimization Replica Set Dream big and dare to fail. Deployment Database Indexing A/B Testing Predictive Analytics Database
