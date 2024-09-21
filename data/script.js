@@ -15,3 +15,4 @@ JavaScript Great things never come from comfort zones. Framework Scalability API
 Scalability Success usually comes to those who are too busy to be looking for it. Firewalls API Gateway If you can dream it, you can do it. Optimization
 Security Data Pipeline Great things never come from comfort zones. Predictive Analytics Serverless Frontend Microservices
 Great things never come from comfort zones. Success is not in what you have, but who you are. Container Orchestration Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
+Cache Invalidation Optimization Firewalls API Database Indexing Sharding If you can dream it, you can do it. Backend Scalability Docker Neural Networks The only way to do great work is to love what you do. Database
