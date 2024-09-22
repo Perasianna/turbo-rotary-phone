@@ -16,3 +16,4 @@ If you can dream it, you can do it. Innovation distinguishes between a leader an
 Version Control WebSockets Cloud Functions IoT Message Queue
 Load Balancing Automation Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. API Framework Don't be afraid to give up the good to go for the great. DevOps
 Artificial Intelligence Happiness is not something ready made. It comes from your own actions. API Gateway Framework Logging I find that the harder I work, the more luck I seem to have. Serverless
+NLP Simplicity is the ultimate sophistication. Neural Networks To be the best, you must be able to handle the worst. API Data Pipeline GraphQL Algorithm Quantum Computing Containerization
