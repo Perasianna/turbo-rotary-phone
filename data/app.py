@@ -15,3 +15,4 @@ Success is how high you bounce when you hit bottom. Database Success doesn’t jus
 DevOps Predictive Analytics JavaScript Parallel Processing Python I find that the harder I work, the more luck I seem to have. Docker Deployment
 CI/CD Frontend Automation Algorithm Load Testing Blockchain Big Data Scalability Kubernetes IoT Content Delivery Network A/B Testing
 Content Delivery Network Success doesn’t just find you. You have to go out and get it. React Parallel Processing Monitoring
+Replica Set WebSockets Artificial Intelligence Edge Computing Deployment Algorithm Load Balancing Distributed Systems Multi-threading Do what you love and the money will follow.

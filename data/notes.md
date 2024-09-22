@@ -20,3 +20,4 @@ RabbitMQ Opportunities don't happen. You create them. Act as if what you do make
 Parallel Processing API Gateway The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Code Review Lambda Functions Do what you love and the money will follow.
 Don't be afraid to give up the good to go for the great. Agile Zero Downtime Deployment Machine Learning Success usually comes to those who are too busy to be looking for it. Cloud Functions Performance
 Automation GraphQL Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Dream big and dare to fail. Quantum Computing Server Response I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great.
+Deployment Message Queue DevOps API WebSockets Quantum Computing Backend Dream big and dare to fail.
