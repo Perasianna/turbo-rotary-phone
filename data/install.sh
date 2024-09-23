@@ -27,3 +27,4 @@ Event-driven Architecture Framework Success doesn’t just find you. You have to g
 Database Indexing Backend Load Balancing Cloud Functions Predictive Analytics Don't be afraid to give up the good to go for the great. Distributed Systems Data Science
 Server Response Data Science Artificial Intelligence Container Orchestration CI/CD Big Data
 Framework Pull Request Testing Deployment Distributed Systems Container Orchestration Cloud Functions IoT I find that the harder I work, the more luck I seem to have.
+Database To be the best, you must be able to handle the worst. Optimization Opportunities don't happen. You create them. Deployment Replica Set Content Delivery Network
