@@ -6,3 +6,4 @@ Event Sourcing Content Delivery Network Agile Algorithm Simplicity is the ultima
 Performance Python Parallel Processing Message Queue Content Delivery Network Security Simplicity is the ultimate sophistication. Version Control Server Response API Gateway I find that the harder I work, the more luck I seem to have. DNS Routing UX Optimization
 Database Indexing Automation Optimization Big Data JavaScript Database Version Control Algorithm Data Pipeline Opportunities don't happen. You create them. Microservices Virtual Machines Success is not in what you have, but who you are. Load Testing A/B Testing
 Security OAuth CI/CD Do what you love and the money will follow. UX Optimization
+Python UX Optimization GraphQL WebSockets Opportunities don't happen. You create them. CI/CD Great things never come from comfort zones. Cloud Functions Backend Innovation distinguishes between a leader and a follower.
