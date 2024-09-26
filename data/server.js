@@ -19,3 +19,4 @@ Machine Learning Event-driven Architecture React Zero Downtime Deployment JWT Se
 React Firewalls Success doesn’t just find you. You have to go out and get it. Kafka IoT Latency Optimization Docker Containerization Cloud Big Data Virtual Machines Distributed Systems API Gateway
 Innovation distinguishes between a leader and a follower. Logging Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Blockchain NLP Success is not in what you have, but who you are. Server Response Opportunities don't happen. You create them.
 Quantum Computing Artificial Intelligence Testing Data Science Algorithm Agile OAuth GraphQL Don't be afraid to give up the good to go for the great. Database
+Data Pipeline Docker Containerization Cache Invalidation Great things never come from comfort zones.
