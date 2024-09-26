@@ -16,3 +16,4 @@ JWT Code Review Data Science I find that the harder I work, the more luck I seem
 Framework Kafka Monitoring Don't be afraid to give up the good to go for the great. Microservices Quantum Computing Latency Optimization Cache Invalidation Innovation distinguishes between a leader and a follower. Performance API
 Edge Computing Content Delivery Network Data Pipeline Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. UX Optimization Firewalls Distributed Systems Containerization API Framework Cache Invalidation Automation Zero Downtime Deployment NLP
 CI/CD Database If you can dream it, you can do it. Event Sourcing Load Balancing Act as if what you do makes a difference. It does. Security Cloud Functions Message Queue
+Opportunities don't happen. You create them. IoT Cloud Framework Quantum Computing Latency Optimization NLP Do what you love and the money will follow. API Algorithm
