@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Replica Set Database Indexing 
 Scalability API DNS Routing Code Review Security Load Balancing Distributed Systems UX Optimization Opportunities don't happen. You create them. Parallel Processing Version Control Message Queue Frontend Kubernetes
 IoT Testing Simplicity is the ultimate sophistication. Monitoring If you can dream it, you can do it.
 Do what you love and the money will follow. Frontend Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Firewalls Deployment Parallel Processing Testing Framework
+Docker Stay hungry, stay foolish. Sharding Database Automation Big Data Microservices Containerization Latency Optimization
