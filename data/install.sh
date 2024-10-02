@@ -26,3 +26,4 @@ Kubernetes Dream big and dare to fail. Parallel Processing JWT Success is not in
 Event-driven Architecture Framework Success doesn’t just find you. You have to go out and get it. Cloud Functions If you can dream it, you can do it. Parallel Processing To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
 Database Indexing Backend Load Balancing Cloud Functions Predictive Analytics Don't be afraid to give up the good to go for the great. Distributed Systems Data Science
 Server Response Data Science Artificial Intelligence Container Orchestration CI/CD Big Data
+Framework Pull Request Testing Deployment Distributed Systems Container Orchestration Cloud Functions IoT I find that the harder I work, the more luck I seem to have.
