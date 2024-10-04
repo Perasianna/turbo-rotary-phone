@@ -17,3 +17,4 @@ Load Balancing Microservices Simplicity is the ultimate sophistication. I find t
 Pull Request Logging Load Testing Security GraphQL Container Orchestration To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Event Sourcing Virtual Machines Code Review Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Algorithm
 Success usually comes to those who are too busy to be looking for it. React Difficult roads often lead to beautiful destinations. Microservices I find that the harder I work, the more luck I seem to have. Logging
 Multi-threading Big Data Neural Networks To be the best, you must be able to handle the worst. Containerization
+React Agile Testing Neural Networks Sharding
