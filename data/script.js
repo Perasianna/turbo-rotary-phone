@@ -12,3 +12,4 @@ Success usually comes to those who are too busy to be looking for it. Zero Downt
 Testing Content Delivery Network Backend CI/CD Algorithm Dream big and dare to fail. DNS Routing Lambda Functions Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Optimization
 The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Serverless Distributed Systems Testing Don't be afraid to give up the good to go for the great. Database API Gateway DNS Routing Message Queue Containerization Backend
 JavaScript Great things never come from comfort zones. Framework Scalability API Machine Learning Big Data OAuth Server Response
+Scalability Success usually comes to those who are too busy to be looking for it. Firewalls API Gateway If you can dream it, you can do it. Optimization
