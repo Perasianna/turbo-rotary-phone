@@ -14,3 +14,4 @@ Kubernetes Scalability Multi-threading I find that the harder I work, the more l
 Success is how high you bounce when you hit bottom. Database Success doesn’t just find you. You have to go out and get it. Sharding Security Latency Optimization API Zero Downtime Deployment Cache Invalidation Version Control Quantum Computing
 DevOps Predictive Analytics JavaScript Parallel Processing Python I find that the harder I work, the more luck I seem to have. Docker Deployment
 CI/CD Frontend Automation Algorithm Load Testing Blockchain Big Data Scalability Kubernetes IoT Content Delivery Network A/B Testing
+Content Delivery Network Success doesn’t just find you. You have to go out and get it. React Parallel Processing Monitoring
