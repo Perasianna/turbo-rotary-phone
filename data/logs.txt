@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. JWT Message Queue 
 IoT A/B Testing Message Queue Quantum Computing Innovation distinguishes between a leader and a follower. Artificial Intelligence Great things never come from comfort zones.
 Artificial Intelligence Simplicity is the ultimate sophistication. Kafka Replica Set Microservices Machine Learning Great things never come from comfort zones. Python Automation Multi-threading React OAuth
 Frontend Lambda Functions DNS Routing Dream big and dare to fail. Scalability Load Testing Monitoring UX Optimization
+Latency Optimization Data Pipeline To be the best, you must be able to handle the worst. Replica Set Act as if what you do makes a difference. It does. Edge Computing OAuth UX Optimization Cache Invalidation Algorithm Work hard in silence, let your success be your noise.

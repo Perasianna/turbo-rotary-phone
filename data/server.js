@@ -16,3 +16,4 @@ Success doesn’t just find you. You have to go out and get it. Microservices OAut
 Security Performance CI/CD Edge Computing Frontend Content Delivery Network Distributed Systems Docker Zero Downtime Deployment Blockchain
 To be the best, you must be able to handle the worst. Framework CI/CD Dream big and dare to fail. Algorithm Performance Quantum Computing RabbitMQ Cloud Functions Do what you love and the money will follow. Edge Computing Version Control Great things never come from comfort zones.
 Machine Learning Event-driven Architecture React Zero Downtime Deployment JWT Serverless Data Science Kafka Sharding Predictive Analytics Success usually comes to those who are too busy to be looking for it. UX Optimization Lambda Functions Container Orchestration Blockchain
+React Firewalls Success doesn’t just find you. You have to go out and get it. Kafka IoT Latency Optimization Docker Containerization Cloud Big Data Virtual Machines Distributed Systems API Gateway
