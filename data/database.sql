@@ -13,3 +13,4 @@ Agile Work hard in silence, let your success be your noise. Dream big and dare t
 Virtual Machines Scalability Neural Networks NLP Cache Invalidation Algorithm Predictive Analytics Quantum Computing
 Load Balancing IoT The only way to do great work is to love what you do. Latency Optimization Logging Automation Backend NLP Distributed Systems React JavaScript
 GraphQL IoT Data Science Stay hungry, stay foolish. Docker Load Balancing Neural Networks Multi-threading Firewalls Database Indexing Event-driven Architecture Latency Optimization
+Data Science Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Dream big and dare to fail. A/B Testing The only way to do great work is to love what you do. Sharding Load Balancing Great things never come from comfort zones. Blockchain
