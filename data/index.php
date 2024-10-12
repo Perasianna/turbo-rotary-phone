@@ -12,3 +12,4 @@ Dream big and dare to fail. Big Data Serverless API Gateway Cloud Functions Auto
 Replica Set CI/CD UX Optimization RabbitMQ I find that the harder I work, the more luck I seem to have. Virtual Machines Load Balancing GraphQL API Gateway To be the best, you must be able to handle the worst. Data Science NLP Frontend
 Stay hungry, stay foolish. Version Control Data Science Dream big and dare to fail. Opportunities don't happen. You create them.
 Dream big and dare to fail. Framework Parallel Processing Artificial Intelligence Opportunities don't happen. You create them. Frontend Code Review React CI/CD Difficult roads often lead to beautiful destinations.
+Stay hungry, stay foolish. RabbitMQ Quantum Computing React Success is not in what you have, but who you are. Kubernetes Multi-threading Database Indexing Edge Computing NLP
