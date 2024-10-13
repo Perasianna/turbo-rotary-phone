@@ -11,3 +11,4 @@ Frontend IoT To be the best, you must be able to handle the worst. Code Review V
 Dream big and dare to fail. Big Data Serverless API Gateway Cloud Functions Automation DevOps Do what you love and the money will follow. Act as if what you do makes a difference. It does. UX Optimization
 Replica Set CI/CD UX Optimization RabbitMQ I find that the harder I work, the more luck I seem to have. Virtual Machines Load Balancing GraphQL API Gateway To be the best, you must be able to handle the worst. Data Science NLP Frontend
 Stay hungry, stay foolish. Version Control Data Science Dream big and dare to fail. Opportunities don't happen. You create them.
+Dream big and dare to fail. Framework Parallel Processing Artificial Intelligence Opportunities don't happen. You create them. Frontend Code Review React CI/CD Difficult roads often lead to beautiful destinations.
