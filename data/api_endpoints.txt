@@ -11,3 +11,4 @@ Agile Message Queue Success is how high you bounce when you hit bottom. Simplici
 Work hard in silence, let your success be your noise. Edge Computing Algorithm Server Response Frontend Message Queue
 Virtual Machines API Gateway Blockchain Difficult roads often lead to beautiful destinations. Database Cloud The only way to do great work is to love what you do. Framework Distributed Systems Kubernetes
 Act as if what you do makes a difference. It does. Cloud Functions Kafka Database Indexing Data Pipeline Content Delivery Network Edge Computing Zero Downtime Deployment
+Parallel Processing Pull Request WebSockets Algorithm Microservices UX Optimization Don't be afraid to give up the good to go for the great. Content Delivery Network Version Control Firewalls Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Cloud Functions Opportunities don't happen. You create them.

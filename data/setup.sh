@@ -14,3 +14,4 @@ Kubernetes Do what you love and the money will follow. Agile Scalability CI/CD S
 A/B Testing Data Science To be the best, you must be able to handle the worst. Firewalls CI/CD
 If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Performance Scalability Monitoring Stay hungry, stay foolish. A/B Testing Opportunities don't happen. You create them. Database
 Version Control WebSockets Cloud Functions IoT Message Queue
+Load Balancing Automation Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. API Framework Don't be afraid to give up the good to go for the great. DevOps
