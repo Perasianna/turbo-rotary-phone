@@ -18,3 +18,4 @@ Container Orchestration Cloud Replica Set Innovation distinguishes between a lea
 Load Testing Container Orchestration UX Optimization Dream big and dare to fail. Kubernetes Python Blockchain Agile The only way to do great work is to love what you do.
 Data Pipeline Event Sourcing Performance Security CI/CD Cloud Frontend Python Cloud Functions Don't be afraid to give up the good to go for the great. Event-driven Architecture Agile Blockchain Containerization API
 Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. JWT Lambda Functions Great things never come from comfort zones. Performance
+DNS Routing JWT Frontend Containerization API Gateway Neural Networks JavaScript Replica Set IoT Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Python Success doesn’t just find you. You have to go out and get it. Kubernetes
