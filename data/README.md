@@ -17,3 +17,4 @@ Stay hungry, stay foolish. I find that the harder I work, the more luck I seem t
 Dream big and dare to fail. Kubernetes Don't be afraid to give up the good to go for the great. Scalability Artificial Intelligence
 Success is not in what you have, but who you are. Replica Set Database Indexing Load Testing Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Version Control Cache Invalidation UX Optimization DNS Routing Difficult roads often lead to beautiful destinations. Edge Computing Success usually comes to those who are too busy to be looking for it.
 Scalability API DNS Routing Code Review Security Load Balancing Distributed Systems UX Optimization Opportunities don't happen. You create them. Parallel Processing Version Control Message Queue Frontend Kubernetes
+IoT Testing Simplicity is the ultimate sophistication. Monitoring If you can dream it, you can do it.

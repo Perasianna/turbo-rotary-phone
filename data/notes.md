@@ -16,3 +16,4 @@ Blockchain Stay hungry, stay foolish. Multi-threading Message Queue Machine Lear
 Replica Set Message Queue Parallel Processing Deployment Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise.
 Cloud Latency Optimization Event-driven Architecture Security Quantum Computing API Predictive Analytics Testing Frontend GraphQL
 JWT Quantum Computing Innovation distinguishes between a leader and a follower. Dream big and dare to fail. CI/CD Kubernetes Firewalls React Data Pipeline I find that the harder I work, the more luck I seem to have. RabbitMQ Latency Optimization
+RabbitMQ Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Load Testing Edge Computing CI/CD API Gateway Happiness is not something ready made. It comes from your own actions.
