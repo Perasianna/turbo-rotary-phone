@@ -13,3 +13,4 @@ Optimization Innovation distinguishes between a leader and a follower. Serverles
 Kubernetes Do what you love and the money will follow. Agile Scalability CI/CD Security Work hard in silence, let your success be your noise. JWT Big Data Great things never come from comfort zones. Neural Networks Event-driven Architecture JavaScript Kafka Replica Set
 A/B Testing Data Science To be the best, you must be able to handle the worst. Firewalls CI/CD
 If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Performance Scalability Monitoring Stay hungry, stay foolish. A/B Testing Opportunities don't happen. You create them. Database
+Version Control WebSockets Cloud Functions IoT Message Queue
