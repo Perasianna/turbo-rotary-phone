@@ -14,3 +14,4 @@ DNS Routing GraphQL Distributed Systems RabbitMQ The only way to do great work i
 Optimization Server Response Cloud Functions Predictive Analytics Edge Computing Data Science Version Control Framework Simplicity is the ultimate sophistication. Database Indexing API I find that the harder I work, the more luck I seem to have. GraphQL Database
 Frontend Version Control Event Sourcing Big Data Cloud Distributed Systems Latency Optimization
 Zero Downtime Deployment Event Sourcing Cloud Functions NLP Performance Predictive Analytics Lambda Functions Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Neural Networks Backend
+The only way to do great work is to love what you do. Load Testing Edge Computing GraphQL Automation Machine Learning

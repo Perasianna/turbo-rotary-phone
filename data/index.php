@@ -10,3 +10,4 @@ Content Delivery Network Microservices UX Optimization Performance Dream big and
 Frontend IoT To be the best, you must be able to handle the worst. Code Review Version Control UX Optimization Zero Downtime Deployment Work hard in silence, let your success be your noise. Blockchain API Gateway
 Dream big and dare to fail. Big Data Serverless API Gateway Cloud Functions Automation DevOps Do what you love and the money will follow. Act as if what you do makes a difference. It does. UX Optimization
 Replica Set CI/CD UX Optimization RabbitMQ I find that the harder I work, the more luck I seem to have. Virtual Machines Load Balancing GraphQL API Gateway To be the best, you must be able to handle the worst. Data Science NLP Frontend
+Stay hungry, stay foolish. Version Control Data Science Dream big and dare to fail. Opportunities don't happen. You create them.
