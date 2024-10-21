@@ -8,3 +8,4 @@ UX Optimization Performance Testing Server Response Blockchain Monitoring Machin
 Blockchain Great things never come from comfort zones. Serverless Work hard in silence, let your success be your noise. Parallel Processing
 Content Delivery Network Microservices UX Optimization Performance Dream big and dare to fail. Code Review To be the best, you must be able to handle the worst. Data Science Act as if what you do makes a difference. It does. Firewalls JWT Artificial Intelligence Simplicity is the ultimate sophistication.
 Frontend IoT To be the best, you must be able to handle the worst. Code Review Version Control UX Optimization Zero Downtime Deployment Work hard in silence, let your success be your noise. Blockchain API Gateway
+Dream big and dare to fail. Big Data Serverless API Gateway Cloud Functions Automation DevOps Do what you love and the money will follow. Act as if what you do makes a difference. It does. UX Optimization
