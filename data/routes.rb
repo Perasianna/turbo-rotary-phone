@@ -16,3 +16,4 @@ Lambda Functions JavaScript Logging Pull Request Opportunities don't happen. You
 Lambda Functions Monitoring The only way to do great work is to love what you do. Data Pipeline Deployment Content Delivery Network
 Container Orchestration Cloud Replica Set Innovation distinguishes between a leader and a follower. Content Delivery Network Load Balancing Neural Networks Testing Frontend Edge Computing Dream big and dare to fail.
 Load Testing Container Orchestration UX Optimization Dream big and dare to fail. Kubernetes Python Blockchain Agile The only way to do great work is to love what you do.
+Data Pipeline Event Sourcing Performance Security CI/CD Cloud Frontend Python Cloud Functions Don't be afraid to give up the good to go for the great. Event-driven Architecture Agile Blockchain Containerization API
