@@ -16,3 +16,4 @@ Big Data DevOps React Framework API Performance Neural Networks Quantum Computin
 Agile Microservices Server Response DevOps Success is how high you bounce when you hit bottom.
 Don't be afraid to give up the good to go for the great. React Dream big and dare to fail. Optimization Pull Request RabbitMQ Framework Quantum Computing Data Science Machine Learning Zero Downtime Deployment
 Success doesn’t just find you. You have to go out and get it. Quantum Computing Containerization Success is how high you bounce when you hit bottom. Multi-threading Version Control WebSockets Scalability Load Testing Happiness is not something ready made. It comes from your own actions. Monitoring DNS Routing Blockchain Data Pipeline Database
+Big Data Act as if what you do makes a difference. It does. Performance Parallel Processing Frontend Data Pipeline Logging Cache Invalidation Database Serverless Microservices IoT API Gateway Code Review
