@@ -10,3 +10,4 @@ Don't be afraid to give up the good to go for the great. Framework Testing Messa
 Agile Message Queue Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Logging Difficult roads often lead to beautiful destinations. Neural Networks Testing Stay hungry, stay foolish. API Backend Latency Optimization Database Indexing
 Work hard in silence, let your success be your noise. Edge Computing Algorithm Server Response Frontend Message Queue
 Virtual Machines API Gateway Blockchain Difficult roads often lead to beautiful destinations. Database Cloud The only way to do great work is to love what you do. Framework Distributed Systems Kubernetes
+Act as if what you do makes a difference. It does. Cloud Functions Kafka Database Indexing Data Pipeline Content Delivery Network Edge Computing Zero Downtime Deployment

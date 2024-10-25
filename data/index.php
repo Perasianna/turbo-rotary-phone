@@ -7,3 +7,4 @@ Innovation distinguishes between a leader and a follower. Data Science JavaScrip
 UX Optimization Performance Testing Server Response Blockchain Monitoring Machine Learning
 Blockchain Great things never come from comfort zones. Serverless Work hard in silence, let your success be your noise. Parallel Processing
 Content Delivery Network Microservices UX Optimization Performance Dream big and dare to fail. Code Review To be the best, you must be able to handle the worst. Data Science Act as if what you do makes a difference. It does. Firewalls JWT Artificial Intelligence Simplicity is the ultimate sophistication.
+Frontend IoT To be the best, you must be able to handle the worst. Code Review Version Control UX Optimization Zero Downtime Deployment Work hard in silence, let your success be your noise. Blockchain API Gateway

@@ -11,3 +11,4 @@ JavaScript Scalability Version Control Simplicity is the ultimate sophistication
 Docker IoT Python Monitoring Parallel Processing Happiness is not something ready made. It comes from your own actions. Pull Request Security Cloud Functions Cache Invalidation Quantum Computing
 Optimization Innovation distinguishes between a leader and a follower. Serverless Deployment Blockchain I find that the harder I work, the more luck I seem to have. Replica Set Security
 Kubernetes Do what you love and the money will follow. Agile Scalability CI/CD Security Work hard in silence, let your success be your noise. JWT Big Data Great things never come from comfort zones. Neural Networks Event-driven Architecture JavaScript Kafka Replica Set
+A/B Testing Data Science To be the best, you must be able to handle the worst. Firewalls CI/CD
