@@ -13,3 +13,4 @@ WebSockets Distributed Systems Sharding Predictive Analytics Load Testing Cloud 
 Event Sourcing GraphQL RabbitMQ Act as if what you do makes a difference. It does. Optimization Serverless Version Control Work hard in silence, let your success be your noise. React Agile Virtual Machines Great things never come from comfort zones.
 Docker Framework Latency Optimization Testing Data Science Big Data
 Blockchain Stay hungry, stay foolish. Multi-threading Message Queue Machine Learning Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions.
+Replica Set Message Queue Parallel Processing Deployment Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise.

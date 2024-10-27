@@ -6,3 +6,4 @@ Kubernetes Testing Load Balancing Quantum Computing I find that the harder I wor
 Innovation distinguishes between a leader and a follower. Data Science JavaScript Server Response Zero Downtime Deployment Testing Logging Lambda Functions NLP Dream big and dare to fail. Opportunities don't happen. You create them. Deployment Version Control Success usually comes to those who are too busy to be looking for it. Database
 UX Optimization Performance Testing Server Response Blockchain Monitoring Machine Learning
 Blockchain Great things never come from comfort zones. Serverless Work hard in silence, let your success be your noise. Parallel Processing
+Content Delivery Network Microservices UX Optimization Performance Dream big and dare to fail. Code Review To be the best, you must be able to handle the worst. Data Science Act as if what you do makes a difference. It does. Firewalls JWT Artificial Intelligence Simplicity is the ultimate sophistication.
