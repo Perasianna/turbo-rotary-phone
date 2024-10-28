@@ -12,3 +12,4 @@ Frontend Edge Computing RabbitMQ Big Data Work hard in silence, let your success
 Algorithm OAuth Predictive Analytics Data Pipeline CI/CD Data Science API Event Sourcing RabbitMQ IoT Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. The only way to do great work is to love what you do.
 DNS Routing GraphQL Distributed Systems RabbitMQ The only way to do great work is to love what you do. Parallel Processing Load Testing Big Data Kubernetes Deployment Python
 Optimization Server Response Cloud Functions Predictive Analytics Edge Computing Data Science Version Control Framework Simplicity is the ultimate sophistication. Database Indexing API I find that the harder I work, the more luck I seem to have. GraphQL Database
+Frontend Version Control Event Sourcing Big Data Cloud Distributed Systems Latency Optimization
