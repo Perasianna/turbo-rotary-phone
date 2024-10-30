@@ -7,3 +7,4 @@ WebSockets Neural Networks Frontend Act as if what you do makes a difference. It
 Great things never come from comfort zones. A/B Testing Microservices I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Sharding To be the best, you must be able to handle the worst. Cloud Functions Load Balancing Deployment Backend
 Kafka Big Data Message Queue Deployment Multi-threading Automation Backend
 Success doesn’t just find you. You have to go out and get it. Firewalls Deployment Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Agile DNS Routing Success is how high you bounce when you hit bottom. Distributed Systems JWT Cloud Functions Simplicity is the ultimate sophistication. Python
+A/B Testing Database Indexing DevOps Sharding Quantum Computing Replica Set The only way to do great work is to love what you do. Agile UX Optimization JWT OAuth GraphQL Event-driven Architecture
