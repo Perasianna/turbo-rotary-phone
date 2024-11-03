@@ -12,3 +12,4 @@ DNS Routing Innovation distinguishes between a leader and a follower. React Grea
 API Gateway Stay hungry, stay foolish. JavaScript Replica Set WebSockets
 WebSockets API Gateway A/B Testing If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it.
 NLP Quantum Computing Do what you love and the money will follow. UX Optimization GraphQL Opportunities don't happen. You create them. JWT Performance Frontend Work hard in silence, let your success be your noise.
+Success doesn’t just find you. You have to go out and get it. Microservices OAuth Simplicity is the ultimate sophistication. API Gateway Container Orchestration Backend Message Queue Do what you love and the money will follow.

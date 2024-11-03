@@ -17,3 +17,4 @@ Zero Downtime Deployment Version Control Lambda Functions Microservices Neural N
 Python Container Orchestration Security Zero Downtime Deployment Agile
 Lambda Functions I find that the harder I work, the more luck I seem to have. Message Queue Act as if what you do makes a difference. It does. Containerization Do what you love and the money will follow. JavaScript Python To be the best, you must be able to handle the worst. Frontend
 Great things never come from comfort zones. Security Frontend Server Response DevOps Simplicity is the ultimate sophistication. Event Sourcing Dream big and dare to fail.
+Success doesn’t just find you. You have to go out and get it. JWT Container Orchestration Difficult roads often lead to beautiful destinations. Artificial Intelligence Quantum Computing Scalability Neural Networks Machine Learning Security Python Message Queue
