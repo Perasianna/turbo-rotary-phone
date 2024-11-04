@@ -5,3 +5,4 @@ Version Control Container Orchestration API Gateway OAuth NLP API Machine Learni
 Frontend Neural Networks RabbitMQ Difficult roads often lead to beautiful destinations. Docker Deployment API Gateway Kubernetes Backend
 WebSockets Neural Networks Frontend Act as if what you do makes a difference. It does. Big Data
 Great things never come from comfort zones. A/B Testing Microservices I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Sharding To be the best, you must be able to handle the worst. Cloud Functions Load Balancing Deployment Backend
+Kafka Big Data Message Queue Deployment Multi-threading Automation Backend

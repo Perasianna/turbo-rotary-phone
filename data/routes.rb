@@ -15,3 +15,4 @@ Distributed Systems Python Simplicity is the ultimate sophistication. API Gatewa
 Lambda Functions JavaScript Logging Pull Request Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Kubernetes OAuth
 Lambda Functions Monitoring The only way to do great work is to love what you do. Data Pipeline Deployment Content Delivery Network
 Container Orchestration Cloud Replica Set Innovation distinguishes between a leader and a follower. Content Delivery Network Load Balancing Neural Networks Testing Frontend Edge Computing Dream big and dare to fail.
+Load Testing Container Orchestration UX Optimization Dream big and dare to fail. Kubernetes Python Blockchain Agile The only way to do great work is to love what you do.
