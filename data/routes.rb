@@ -13,3 +13,4 @@ Automation Security Load Balancing Container Orchestration DevOps Don't be afrai
 Data Pipeline Frontend Do what you love and the money will follow. GraphQL Firewalls Code Review Optimization Deployment
 Distributed Systems Python Simplicity is the ultimate sophistication. API Gateway Monitoring Big Data Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. GraphQL DevOps
 Lambda Functions JavaScript Logging Pull Request Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Kubernetes OAuth
+Lambda Functions Monitoring The only way to do great work is to love what you do. Data Pipeline Deployment Content Delivery Network
