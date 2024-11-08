@@ -10,3 +10,4 @@ NLP If you can dream it, you can do it. Testing Success usually comes to those w
 Big Data Python Success is not in what you have, but who you are. Framework Cache Invalidation Server Response I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Content Delivery Network
 Sharding OAuth Virtual Machines Optimization Latency Optimization
 Agile Work hard in silence, let your success be your noise. Dream big and dare to fail. Python Scalability Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Message Queue Event-driven Architecture OAuth Performance Simplicity is the ultimate sophistication.
+Virtual Machines Scalability Neural Networks NLP Cache Invalidation Algorithm Predictive Analytics Quantum Computing
