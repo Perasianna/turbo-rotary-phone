@@ -9,3 +9,4 @@ DNS Routing Code Review API Gateway Server Response NLP Frontend To be the best,
 JWT Artificial Intelligence React Data Pipeline Kubernetes Serverless If you can dream it, you can do it. Algorithm Microservices Parallel Processing
 JavaScript Scalability Version Control Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Blockchain Data Pipeline Neural Networks Multi-threading
 Docker IoT Python Monitoring Parallel Processing Happiness is not something ready made. It comes from your own actions. Pull Request Security Cloud Functions Cache Invalidation Quantum Computing
+Optimization Innovation distinguishes between a leader and a follower. Serverless Deployment Blockchain I find that the harder I work, the more luck I seem to have. Replica Set Security
