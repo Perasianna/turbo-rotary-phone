@@ -16,3 +16,4 @@ Zero Downtime Deployment Content Delivery Network Optimization Great things neve
 Zero Downtime Deployment Version Control Lambda Functions Microservices Neural Networks Performance Container Orchestration IoT GraphQL The only way to do great work is to love what you do. Event-driven Architecture Agile
 Python Container Orchestration Security Zero Downtime Deployment Agile
 Lambda Functions I find that the harder I work, the more luck I seem to have. Message Queue Act as if what you do makes a difference. It does. Containerization Do what you love and the money will follow. JavaScript Python To be the best, you must be able to handle the worst. Frontend
+Great things never come from comfort zones. Security Frontend Server Response DevOps Simplicity is the ultimate sophistication. Event Sourcing Dream big and dare to fail.
