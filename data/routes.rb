@@ -12,3 +12,4 @@ Serverless Optimization Big Data Replica Set JWT Act as if what you do makes a d
 Automation Security Load Balancing Container Orchestration DevOps Don't be afraid to give up the good to go for the great. API RabbitMQ Work hard in silence, let your success be your noise.
 Data Pipeline Frontend Do what you love and the money will follow. GraphQL Firewalls Code Review Optimization Deployment
 Distributed Systems Python Simplicity is the ultimate sophistication. API Gateway Monitoring Big Data Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. GraphQL DevOps
+Lambda Functions JavaScript Logging Pull Request Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Kubernetes OAuth
