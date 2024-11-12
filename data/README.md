@@ -14,3 +14,4 @@ Success is how high you bounce when you hit bottom. Frontend Code Review Deploym
 UX Optimization Data Pipeline Kubernetes Innovation distinguishes between a leader and a follower. Framework Great things never come from comfort zones. If you can dream it, you can do it. Code Review Optimization Cloud
 I find that the harder I work, the more luck I seem to have. Multi-threading Cloud Functions Difficult roads often lead to beautiful destinations. Virtual Machines Kubernetes JavaScript
 Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Pull Request Edge Computing GraphQL
+Dream big and dare to fail. Kubernetes Don't be afraid to give up the good to go for the great. Scalability Artificial Intelligence
