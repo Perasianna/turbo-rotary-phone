@@ -8,3 +8,4 @@ GraphQL Performance Pull Request I find that the harder I work, the more luck I 
 Agile React Great things never come from comfort zones. API Monitoring
 NLP If you can dream it, you can do it. Testing Success usually comes to those who are too busy to be looking for it. Distributed Systems Load Testing Content Delivery Network Happiness is not something ready made. It comes from your own actions. Cloud Server Response Python Multi-threading Blockchain Dream big and dare to fail.
 Big Data Python Success is not in what you have, but who you are. Framework Cache Invalidation Server Response I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Content Delivery Network
+Sharding OAuth Virtual Machines Optimization Latency Optimization
