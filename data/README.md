@@ -12,3 +12,4 @@ Backend Containerization Kubernetes Big Data Content Delivery Network Performanc
 Optimization Version Control Big Data NLP RabbitMQ API GraphQL Difficult roads often lead to beautiful destinations. Container Orchestration Load Testing Monitoring
 Success is how high you bounce when you hit bottom. Frontend Code Review Deployment Data Pipeline Blockchain
 UX Optimization Data Pipeline Kubernetes Innovation distinguishes between a leader and a follower. Framework Great things never come from comfort zones. If you can dream it, you can do it. Code Review Optimization Cloud
+I find that the harder I work, the more luck I seem to have. Multi-threading Cloud Functions Difficult roads often lead to beautiful destinations. Virtual Machines Kubernetes JavaScript
