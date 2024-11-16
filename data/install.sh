@@ -15,3 +15,4 @@ Performance Docker Cloud Functions Code Review RabbitMQ
 Act as if what you do makes a difference. It does. NLP OAuth Load Testing Edge Computing Neural Networks API Optimization Distributed Systems Dream big and dare to fail.
 Database Indexing JWT Testing Framework Simplicity is the ultimate sophistication. DevOps If you can dream it, you can do it. Lambda Functions Machine Learning Cache Invalidation Dream big and dare to fail. Predictive Analytics OAuth
 Artificial Intelligence Optimization Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. IoT Don't be afraid to give up the good to go for the great. Version Control Backend
+Cloud Functions Framework Edge Computing Dream big and dare to fail. Success is not in what you have, but who you are. Code Review

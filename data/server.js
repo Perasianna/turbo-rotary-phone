@@ -10,3 +10,4 @@ Backend RabbitMQ Code Review Deployment Lambda Functions Server Response Latency
 API Gateway GraphQL React Lambda Functions Code Review Blockchain Success usually comes to those who are too busy to be looking for it.
 DNS Routing Innovation distinguishes between a leader and a follower. React Great things never come from comfort zones. Parallel Processing API Gateway Sharding Simplicity is the ultimate sophistication. CI/CD Kafka DevOps Monitoring
 API Gateway Stay hungry, stay foolish. JavaScript Replica Set WebSockets
+WebSockets API Gateway A/B Testing If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it.
