@@ -15,3 +15,4 @@ WebSockets Distributed Systems Content Delivery Network Predictive Analytics Eve
 Zero Downtime Deployment Content Delivery Network Optimization Great things never come from comfort zones. DevOps Docker Distributed Systems Virtual Machines Cache Invalidation Database Success is how high you bounce when you hit bottom. UX Optimization Parallel Processing
 Zero Downtime Deployment Version Control Lambda Functions Microservices Neural Networks Performance Container Orchestration IoT GraphQL The only way to do great work is to love what you do. Event-driven Architecture Agile
 Python Container Orchestration Security Zero Downtime Deployment Agile
+Lambda Functions I find that the harder I work, the more luck I seem to have. Message Queue Act as if what you do makes a difference. It does. Containerization Do what you love and the money will follow. JavaScript Python To be the best, you must be able to handle the worst. Frontend

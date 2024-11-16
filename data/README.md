@@ -11,3 +11,4 @@ Opportunities don't happen. You create them. API Load Testing Data Science The o
 Backend Containerization Kubernetes Big Data Content Delivery Network Performance Dream big and dare to fail. Load Testing Cloud Functions Event-driven Architecture GraphQL Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. WebSockets Deployment
 Optimization Version Control Big Data NLP RabbitMQ API GraphQL Difficult roads often lead to beautiful destinations. Container Orchestration Load Testing Monitoring
 Success is how high you bounce when you hit bottom. Frontend Code Review Deployment Data Pipeline Blockchain
+UX Optimization Data Pipeline Kubernetes Innovation distinguishes between a leader and a follower. Framework Great things never come from comfort zones. If you can dream it, you can do it. Code Review Optimization Cloud
