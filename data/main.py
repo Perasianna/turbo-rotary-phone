@@ -14,3 +14,4 @@ Server Response API Data Pipeline Code Review Replica Set
 WebSockets Distributed Systems Content Delivery Network Predictive Analytics Event-driven Architecture Serverless Load Balancing Event Sourcing Cloud Functions Monitoring Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Replica Set JWT
 Zero Downtime Deployment Content Delivery Network Optimization Great things never come from comfort zones. DevOps Docker Distributed Systems Virtual Machines Cache Invalidation Database Success is how high you bounce when you hit bottom. UX Optimization Parallel Processing
 Zero Downtime Deployment Version Control Lambda Functions Microservices Neural Networks Performance Container Orchestration IoT GraphQL The only way to do great work is to love what you do. Event-driven Architecture Agile
+Python Container Orchestration Security Zero Downtime Deployment Agile

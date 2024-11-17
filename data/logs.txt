@@ -13,3 +13,4 @@ Scalability Backend Difficult roads often lead to beautiful destinations. Load B
 Backend Deployment Cache Invalidation To be the best, you must be able to handle the worst. Sharding WebSockets Load Testing Big Data API
 Innovation distinguishes between a leader and a follower. Framework WebSockets JWT Docker Frontend RabbitMQ Database Difficult roads often lead to beautiful destinations. Content Delivery Network
 Great things never come from comfort zones. Simplicity is the ultimate sophistication. CI/CD Framework Sharding Container Orchestration Zero Downtime Deployment
+Difficult roads often lead to beautiful destinations. API Gateway Parallel Processing Database Great things never come from comfort zones. Sharding Kafka Content Delivery Network Blockchain Simplicity is the ultimate sophistication. OAuth Framework Server Response
