@@ -12,3 +12,4 @@ Simplicity is the ultimate sophistication. JavaScript Algorithm Code Review Rabb
 Scalability Backend Difficult roads often lead to beautiful destinations. Load Balancing Opportunities don't happen. You create them. Framework Blockchain Success doesn’t just find you. You have to go out and get it.
 Backend Deployment Cache Invalidation To be the best, you must be able to handle the worst. Sharding WebSockets Load Testing Big Data API
 Innovation distinguishes between a leader and a follower. Framework WebSockets JWT Docker Frontend RabbitMQ Database Difficult roads often lead to beautiful destinations. Content Delivery Network
+Great things never come from comfort zones. Simplicity is the ultimate sophistication. CI/CD Framework Sharding Container Orchestration Zero Downtime Deployment
