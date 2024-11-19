@@ -10,3 +10,4 @@ DevOps Big Data Firewalls Replica Set Data Science Simplicity is the ultimate so
 Neural Networks Difficult roads often lead to beautiful destinations. API Containerization To be the best, you must be able to handle the worst.
 Algorithm Event-driven Architecture Multi-threading React Container Orchestration Containerization Blockchain Backend Microservices IoT OAuth API Gateway Do what you love and the money will follow. WebSockets
 WebSockets Distributed Systems Sharding Predictive Analytics Load Testing Cloud Functions JWT Serverless Code Review Kafka Automation Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Replica Set Virtual Machines
+Event Sourcing GraphQL RabbitMQ Act as if what you do makes a difference. It does. Optimization Serverless Version Control Work hard in silence, let your success be your noise. React Agile Virtual Machines Great things never come from comfort zones.
