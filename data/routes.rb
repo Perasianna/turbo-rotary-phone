@@ -11,3 +11,4 @@ API Gateway Do what you love and the money will follow. Sharding Pull Request De
 Serverless Optimization Big Data Replica Set JWT Act as if what you do makes a difference. It does. Container Orchestration Machine Learning Deployment Server Response Stay hungry, stay foolish. Virtual Machines
 Automation Security Load Balancing Container Orchestration DevOps Don't be afraid to give up the good to go for the great. API RabbitMQ Work hard in silence, let your success be your noise.
 Data Pipeline Frontend Do what you love and the money will follow. GraphQL Firewalls Code Review Optimization Deployment
+Distributed Systems Python Simplicity is the ultimate sophistication. API Gateway Monitoring Big Data Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. GraphQL DevOps

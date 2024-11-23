@@ -11,3 +11,4 @@ Multi-threading Event-driven Architecture Success is how high you bounce when yo
 Simplicity is the ultimate sophistication. JavaScript Algorithm Code Review RabbitMQ Multi-threading Cloud Load Balancing Machine Learning Difficult roads often lead to beautiful destinations. Lambda Functions Stay hungry, stay foolish. Opportunities don't happen. You create them.
 Scalability Backend Difficult roads often lead to beautiful destinations. Load Balancing Opportunities don't happen. You create them. Framework Blockchain Success doesn’t just find you. You have to go out and get it.
 Backend Deployment Cache Invalidation To be the best, you must be able to handle the worst. Sharding WebSockets Load Testing Big Data API
+Innovation distinguishes between a leader and a follower. Framework WebSockets JWT Docker Frontend RabbitMQ Database Difficult roads often lead to beautiful destinations. Content Delivery Network

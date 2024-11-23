@@ -9,3 +9,4 @@ NLP Stay hungry, stay foolish. Cloud Functions JWT Security Artificial Intellige
 Success is how high you bounce when you hit bottom. Parallel Processing Deployment API JWT Kubernetes Optimization Database Indexing Edge Computing Success doesn’t just find you. You have to go out and get it. NLP
 Success is not in what you have, but who you are. RabbitMQ Content Delivery Network Do what you love and the money will follow. API Gateway Scalability Server Response Framework JavaScript IoT Stay hungry, stay foolish. JWT Performance Big Data Event Sourcing
 Big Data Quantum Computing Happiness is not something ready made. It comes from your own actions. Cloud CI/CD Testing Firewalls DevOps Innovation distinguishes between a leader and a follower. Multi-threading Kafka Pull Request React
+Success is not in what you have, but who you are. Version Control CI/CD WebSockets Containerization
