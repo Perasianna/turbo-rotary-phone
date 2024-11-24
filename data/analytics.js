@@ -12,3 +12,4 @@ Success is not in what you have, but who you are. Cloud Functions CI/CD Don't be
 JavaScript Monitoring Algorithm Data Science Stay hungry, stay foolish. Containerization
 Act as if what you do makes a difference. It does. Backend JavaScript Logging CI/CD Cache Invalidation Success is how high you bounce when you hit bottom. Testing
 Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Load Balancing UX Optimization Quantum Computing Cloud Functions Firewalls Zero Downtime Deployment Serverless If you can dream it, you can do it. Parallel Processing
+Big Data DevOps React Framework API Performance Neural Networks Quantum Computing
