@@ -11,3 +11,4 @@ Automation Predictive Analytics Sharding Version Control Python Content Delivery
 Container Orchestration Load Balancing Kafka Big Data Artificial Intelligence Success is how high you bounce when you hit bottom. Pull Request Do what you love and the money will follow. Deployment Agile Data Pipeline DNS Routing Optimization Kubernetes
 Framework Agile DevOps Docker Backend
 Server Response API Data Pipeline Code Review Replica Set
+WebSockets Distributed Systems Content Delivery Network Predictive Analytics Event-driven Architecture Serverless Load Balancing Event Sourcing Cloud Functions Monitoring Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Replica Set JWT

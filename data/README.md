@@ -9,3 +9,4 @@ Sharding GraphQL Don't be afraid to give up the good to go for the great. Cloud 
 Microservices DevOps Content Delivery Network Code Review Artificial Intelligence Virtual Machines DNS Routing Performance
 Opportunities don't happen. You create them. API Load Testing Data Science The only way to do great work is to love what you do. Monitoring Scalability Performance Don't be afraid to give up the good to go for the great. IoT Success is not in what you have, but who you are. Multi-threading
 Backend Containerization Kubernetes Big Data Content Delivery Network Performance Dream big and dare to fail. Load Testing Cloud Functions Event-driven Architecture GraphQL Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. WebSockets Deployment
+Optimization Version Control Big Data NLP RabbitMQ API GraphQL Difficult roads often lead to beautiful destinations. Container Orchestration Load Testing Monitoring

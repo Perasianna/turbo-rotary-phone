@@ -5,3 +5,4 @@ Optimization Quantum Computing Act as if what you do makes a difference. It does
 Data Science Success usually comes to those who are too busy to be looking for it. Serverless Database Indexing Do what you love and the money will follow. Act as if what you do makes a difference. It does. JavaScript Data Pipeline
 Logging Simplicity is the ultimate sophistication. A/B Testing RabbitMQ Distributed Systems
 The only way to do great work is to love what you do. OAuth IoT Event-driven Architecture Dream big and dare to fail. Algorithm Content Delivery Network Act as if what you do makes a difference. It does. Testing Parallel Processing Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
+To be the best, you must be able to handle the worst. Code Review DevOps Innovation distinguishes between a leader and a follower. Version Control Multi-threading Cloud Functions Load Balancing Neural Networks
