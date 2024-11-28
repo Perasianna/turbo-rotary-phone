@@ -8,3 +8,4 @@ Event-driven Architecture Opportunities don't happen. You create them. Act as if
 DNS Routing Code Review API Gateway Server Response NLP Frontend To be the best, you must be able to handle the worst. Sharding Load Testing Opportunities don't happen. You create them. The only way to do great work is to love what you do. Python Replica Set If you can dream it, you can do it.
 JWT Artificial Intelligence React Data Pipeline Kubernetes Serverless If you can dream it, you can do it. Algorithm Microservices Parallel Processing
 JavaScript Scalability Version Control Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Blockchain Data Pipeline Neural Networks Multi-threading
+Docker IoT Python Monitoring Parallel Processing Happiness is not something ready made. It comes from your own actions. Pull Request Security Cloud Functions Cache Invalidation Quantum Computing
