@@ -12,3 +12,4 @@ API Gateway Cloud Innovation distinguishes between a leader and a follower. Arti
 RabbitMQ Testing Database Indexing Virtual Machines Success doesn’t just find you. You have to go out and get it. API Gateway
 Monitoring Serverless Server Response Dream big and dare to fail. Backend Cache Invalidation Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. JWT Database Indexing
 Performance Docker Cloud Functions Code Review RabbitMQ
+Act as if what you do makes a difference. It does. NLP OAuth Load Testing Edge Computing Neural Networks API Optimization Distributed Systems Dream big and dare to fail.
