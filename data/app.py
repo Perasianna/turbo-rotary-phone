@@ -4,3 +4,4 @@ Data Science Optimization Distributed Systems Logging Happiness is not something
 Backend Neural Networks Code Review Monitoring Cloud Act as if what you do makes a difference. It does. Deployment Firewalls Frontend CI/CD DNS Routing API Gateway
 Don't be afraid to give up the good to go for the great. Performance DevOps Database Automation Success is how high you bounce when you hit bottom. API Gateway Multi-threading Parallel Processing Success doesn’t just find you. You have to go out and get it. Artificial Intelligence
 JWT Containerization Great things never come from comfort zones. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Big Data
+NLP Python Framework Cache Invalidation Version Control API Gateway Sharding Monitoring Difficult roads often lead to beautiful destinations. Server Response Cloud Functions

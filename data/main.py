@@ -10,3 +10,4 @@ Dream big and dare to fail. Happiness is not something ready made. It comes from
 Automation Predictive Analytics Sharding Version Control Python Content Delivery Network Dream big and dare to fail. Firewalls Message Queue Work hard in silence, let your success be your noise. Database IoT DNS Routing Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does.
 Container Orchestration Load Balancing Kafka Big Data Artificial Intelligence Success is how high you bounce when you hit bottom. Pull Request Do what you love and the money will follow. Deployment Agile Data Pipeline DNS Routing Optimization Kubernetes
 Framework Agile DevOps Docker Backend
+Server Response API Data Pipeline Code Review Replica Set
