@@ -3,3 +3,4 @@ Event Sourcing Act as if what you do makes a difference. It does. Blockchain If 
 Zero Downtime Deployment Testing Data Science Deployment Python Algorithm JavaScript Backend Agile API Serverless Success is not in what you have, but who you are.
 Version Control Container Orchestration API Gateway OAuth NLP API Machine Learning Latency Optimization Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Artificial Intelligence Python WebSockets Testing
 Frontend Neural Networks RabbitMQ Difficult roads often lead to beautiful destinations. Docker Deployment API Gateway Kubernetes Backend
+WebSockets Neural Networks Frontend Act as if what you do makes a difference. It does. Big Data
