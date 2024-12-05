@@ -7,3 +7,4 @@ Firewalls Sharding Difficult roads often lead to beautiful destinations. Microse
 Performance Simplicity is the ultimate sophistication. Cloud Functions Automation Data Pipeline Neural Networks Success is not in what you have, but who you are. Server Response Kafka Deployment Multi-threading Docker Testing Replica Set
 Do what you love and the money will follow. Event Sourcing Kubernetes Big Data Logging React NLP API Gateway Testing Monitoring
 Artificial Intelligence A/B Testing Opportunities don't happen. You create them. NLP Data Science Edge Computing Pull Request
+Big Data Backend API Gateway Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Data Science Zero Downtime Deployment Event Sourcing Version Control The only way to do great work is to love what you do. Content Delivery Network Performance Containerization
