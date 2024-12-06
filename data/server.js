@@ -8,3 +8,4 @@ Opportunities don't happen. You create them. Innovation distinguishes between a 
 Docker A/B Testing Message Queue Latency Optimization JavaScript Cache Invalidation Algorithm Optimization Dream big and dare to fail. DevOps Microservices Sharding API Gateway Code Review
 Backend RabbitMQ Code Review Deployment Lambda Functions Server Response Latency Optimization Microservices Sharding NLP WebSockets Don't be afraid to give up the good to go for the great.
 API Gateway GraphQL React Lambda Functions Code Review Blockchain Success usually comes to those who are too busy to be looking for it.
+DNS Routing Innovation distinguishes between a leader and a follower. React Great things never come from comfort zones. Parallel Processing API Gateway Sharding Simplicity is the ultimate sophistication. CI/CD Kafka DevOps Monitoring
