@@ -10,3 +10,4 @@ Database Indexing Pull Request Message Queue Microservices Dream big and dare to
 Neural Networks Success is not in what you have, but who you are. Monitoring Cloud Data Science RabbitMQ Distributed Systems Code Review Logging Testing A/B Testing WebSockets Version Control
 Success is not in what you have, but who you are. Cloud Functions CI/CD Don't be afraid to give up the good to go for the great. Pull Request Security Machine Learning Lambda Functions Microservices Monitoring JavaScript
 JavaScript Monitoring Algorithm Data Science Stay hungry, stay foolish. Containerization
+Act as if what you do makes a difference. It does. Backend JavaScript Logging CI/CD Cache Invalidation Success is how high you bounce when you hit bottom. Testing
