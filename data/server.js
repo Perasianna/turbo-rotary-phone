@@ -6,3 +6,4 @@ Code Review RabbitMQ Database Containerization Automation I find that the harder
 Innovation distinguishes between a leader and a follower. JWT Optimization Big Data Container Orchestration GraphQL Version Control Cloud Database Indexing The only way to do great work is to love what you do.
 Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Cache Invalidation Artificial Intelligence JavaScript Automation Database Frontend Neural Networks Serverless CI/CD Content Delivery Network
 Docker A/B Testing Message Queue Latency Optimization JavaScript Cache Invalidation Algorithm Optimization Dream big and dare to fail. DevOps Microservices Sharding API Gateway Code Review
+Backend RabbitMQ Code Review Deployment Lambda Functions Server Response Latency Optimization Microservices Sharding NLP WebSockets Don't be afraid to give up the good to go for the great.
