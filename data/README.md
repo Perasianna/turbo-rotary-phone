@@ -6,3 +6,4 @@ Artificial Intelligence Cloud Functions Pull Request IoT DevOps Dream big and da
 Machine Learning Predictive Analytics Serverless Dream big and dare to fail. Load Balancing Version Control Simplicity is the ultimate sophistication.
 Kafka Opportunities don't happen. You create them. Cloud Lambda Functions Simplicity is the ultimate sophistication. Sharding Artificial Intelligence Scalability OAuth Big Data Python If you can dream it, you can do it.
 Sharding GraphQL Don't be afraid to give up the good to go for the great. Cloud Simplicity is the ultimate sophistication. Do what you love and the money will follow. React Containerization If you can dream it, you can do it. Work hard in silence, let your success be your noise.
+Microservices DevOps Content Delivery Network Code Review Artificial Intelligence Virtual Machines DNS Routing Performance
