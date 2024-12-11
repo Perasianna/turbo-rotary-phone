@@ -4,3 +4,4 @@ Container Orchestration Event Sourcing Docker Frontend Difficult roads often lea
 Virtual Machines GraphQL Security UX Optimization Content Delivery Network Monitoring Optimization Firewalls Testing RabbitMQ Event Sourcing Act as if what you do makes a difference. It does. Data Pipeline Logging JavaScript
 Simplicity is the ultimate sophistication. Security OAuth React DevOps The only way to do great work is to love what you do. Big Data Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones.
 Firewalls Sharding Difficult roads often lead to beautiful destinations. Microservices Virtual Machines Agile Database Indexing Cloud Multi-threading NLP Latency Optimization
+Performance Simplicity is the ultimate sophistication. Cloud Functions Automation Data Pipeline Neural Networks Success is not in what you have, but who you are. Server Response Kafka Deployment Multi-threading Docker Testing Replica Set
