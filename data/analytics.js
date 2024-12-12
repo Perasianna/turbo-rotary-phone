@@ -7,3 +7,4 @@ IoT CI/CD Stay hungry, stay foolish. Virtual Machines Data Pipeline Kafka Diffic
 Cloud Functions Framework Testing Pull Request Backend To be the best, you must be able to handle the worst.
 GraphQL Great things never come from comfort zones. Latency Optimization Load Balancing Success usually comes to those who are too busy to be looking for it. CI/CD
 Database Indexing Pull Request Message Queue Microservices Dream big and dare to fail. API Success is how high you bounce when you hit bottom. JavaScript Deployment Serverless Automation Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Event Sourcing Database
+Neural Networks Success is not in what you have, but who you are. Monitoring Cloud Data Science RabbitMQ Distributed Systems Code Review Logging Testing A/B Testing WebSockets Version Control

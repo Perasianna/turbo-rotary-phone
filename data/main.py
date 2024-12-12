@@ -7,3 +7,4 @@ Opportunities don't happen. You create them. API Gateway Load Testing Kafka Agil
 Version Control Artificial Intelligence Database Success is how high you bounce when you hit bottom. Multi-threading Optimization Blockchain Simplicity is the ultimate sophistication. Cloud Functions Containerization Security
 Database Distributed Systems Artificial Intelligence Innovation distinguishes between a leader and a follower. Containerization
 Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Event Sourcing Blockchain WebSockets
+Automation Predictive Analytics Sharding Version Control Python Content Delivery Network Dream big and dare to fail. Firewalls Message Queue Work hard in silence, let your success be your noise. Database IoT DNS Routing Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does.
