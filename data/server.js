@@ -5,3 +5,4 @@ WebSockets To be the best, you must be able to handle the worst. Quantum Computi
 Code Review RabbitMQ Database Containerization Automation I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Agile Replica Set Sharding Predictive Analytics Frontend
 Innovation distinguishes between a leader and a follower. JWT Optimization Big Data Container Orchestration GraphQL Version Control Cloud Database Indexing The only way to do great work is to love what you do.
 Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Cache Invalidation Artificial Intelligence JavaScript Automation Database Frontend Neural Networks Serverless CI/CD Content Delivery Network
+Docker A/B Testing Message Queue Latency Optimization JavaScript Cache Invalidation Algorithm Optimization Dream big and dare to fail. DevOps Microservices Sharding API Gateway Code Review
