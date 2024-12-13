@@ -6,3 +6,4 @@ Don't be afraid to give up the good to go for the great. Distributed Systems Pul
 IoT CI/CD Stay hungry, stay foolish. Virtual Machines Data Pipeline Kafka Difficult roads often lead to beautiful destinations. OAuth Container Orchestration Framework UX Optimization Python Cloud Load Balancing
 Cloud Functions Framework Testing Pull Request Backend To be the best, you must be able to handle the worst.
 GraphQL Great things never come from comfort zones. Latency Optimization Load Balancing Success usually comes to those who are too busy to be looking for it. CI/CD
+Database Indexing Pull Request Message Queue Microservices Dream big and dare to fail. API Success is how high you bounce when you hit bottom. JavaScript Deployment Serverless Automation Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Event Sourcing Database
