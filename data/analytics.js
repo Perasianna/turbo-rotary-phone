@@ -5,3 +5,4 @@ Parallel Processing Docker I find that the harder I work, the more luck I seem t
 Don't be afraid to give up the good to go for the great. Distributed Systems Pull Request Message Queue Happiness is not something ready made. It comes from your own actions. Frontend Dream big and dare to fail. DNS Routing Lambda Functions CI/CD Big Data Work hard in silence, let your success be your noise. Event Sourcing
 IoT CI/CD Stay hungry, stay foolish. Virtual Machines Data Pipeline Kafka Difficult roads often lead to beautiful destinations. OAuth Container Orchestration Framework UX Optimization Python Cloud Load Balancing
 Cloud Functions Framework Testing Pull Request Backend To be the best, you must be able to handle the worst.
+GraphQL Great things never come from comfort zones. Latency Optimization Load Balancing Success usually comes to those who are too busy to be looking for it. CI/CD
