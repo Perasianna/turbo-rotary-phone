@@ -9,3 +9,4 @@ Distributed Systems Agile Event Sourcing Containerization Container Orchestratio
 Code Review Containerization DNS Routing Agile Database Big Data JavaScript Server Response Edge Computing Difficult roads often lead to beautiful destinations. Cloud Functions API Gateway
 API Gateway Do what you love and the money will follow. Sharding Pull Request Deployment The only way to do great work is to love what you do. Python If you can dream it, you can do it. Parallel Processing React Neural Networks Predictive Analytics Frontend Machine Learning Optimization
 Serverless Optimization Big Data Replica Set JWT Act as if what you do makes a difference. It does. Container Orchestration Machine Learning Deployment Server Response Stay hungry, stay foolish. Virtual Machines
+Automation Security Load Balancing Container Orchestration DevOps Don't be afraid to give up the good to go for the great. API RabbitMQ Work hard in silence, let your success be your noise.
