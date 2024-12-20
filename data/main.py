@@ -6,3 +6,4 @@ API Monitoring Success is not in what you have, but who you are. Artificial Inte
 Opportunities don't happen. You create them. API Gateway Load Testing Kafka Agile Version Control Dream big and dare to fail. Kubernetes Quantum Computing Simplicity is the ultimate sophistication. If you can dream it, you can do it. Event Sourcing Data Science Data Pipeline Stay hungry, stay foolish.
 Version Control Artificial Intelligence Database Success is how high you bounce when you hit bottom. Multi-threading Optimization Blockchain Simplicity is the ultimate sophistication. Cloud Functions Containerization Security
 Database Distributed Systems Artificial Intelligence Innovation distinguishes between a leader and a follower. Containerization
+Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Event Sourcing Blockchain WebSockets
