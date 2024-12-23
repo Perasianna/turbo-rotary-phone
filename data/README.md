@@ -4,3 +4,4 @@ JavaScript To be the best, you must be able to handle the worst. RabbitMQ Succes
 Artificial Intelligence Edge Computing Predictive Analytics Security Kubernetes Performance Latency Optimization Work hard in silence, let your success be your noise. Event-driven Architecture Containerization Opportunities don't happen. You create them. The only way to do great work is to love what you do.
 Artificial Intelligence Cloud Functions Pull Request IoT DevOps Dream big and dare to fail. Algorithm Success doesn’t just find you. You have to go out and get it.
 Machine Learning Predictive Analytics Serverless Dream big and dare to fail. Load Balancing Version Control Simplicity is the ultimate sophistication.
+Kafka Opportunities don't happen. You create them. Cloud Lambda Functions Simplicity is the ultimate sophistication. Sharding Artificial Intelligence Scalability OAuth Big Data Python If you can dream it, you can do it.
