@@ -2,3 +2,4 @@ Opportunities don't happen. You create them. Microservices Load Balancing Event-
 Database Indexing Great things never come from comfort zones. Neural Networks Containerization Algorithm Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations.
 JavaScript To be the best, you must be able to handle the worst. RabbitMQ Success usually comes to those who are too busy to be looking for it. Neural Networks
 Artificial Intelligence Edge Computing Predictive Analytics Security Kubernetes Performance Latency Optimization Work hard in silence, let your success be your noise. Event-driven Architecture Containerization Opportunities don't happen. You create them. The only way to do great work is to love what you do.
+Artificial Intelligence Cloud Functions Pull Request IoT DevOps Dream big and dare to fail. Algorithm Success doesn’t just find you. You have to go out and get it.
