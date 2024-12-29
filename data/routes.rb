@@ -7,3 +7,4 @@ Kubernetes RabbitMQ Backend Success usually comes to those who are too busy to b
 A/B Testing Security DevOps Dream big and dare to fail. Predictive Analytics
 Distributed Systems Agile Event Sourcing Containerization Container Orchestration If you can dream it, you can do it. Optimization Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. NLP
 Code Review Containerization DNS Routing Agile Database Big Data JavaScript Server Response Edge Computing Difficult roads often lead to beautiful destinations. Cloud Functions API Gateway
+API Gateway Do what you love and the money will follow. Sharding Pull Request Deployment The only way to do great work is to love what you do. Python If you can dream it, you can do it. Parallel Processing React Neural Networks Predictive Analytics Frontend Machine Learning Optimization
