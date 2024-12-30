@@ -6,3 +6,4 @@ Event Sourcing Event-driven Architecture Edge Computing Success doesn’t just fin
 Kubernetes RabbitMQ Backend Success usually comes to those who are too busy to be looking for it. Pull Request Server Response Database Indexing Distributed Systems Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Automation Performance Docker
 A/B Testing Security DevOps Dream big and dare to fail. Predictive Analytics
 Distributed Systems Agile Event Sourcing Containerization Container Orchestration If you can dream it, you can do it. Optimization Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. NLP
+Code Review Containerization DNS Routing Agile Database Big Data JavaScript Server Response Edge Computing Difficult roads often lead to beautiful destinations. Cloud Functions API Gateway

@@ -3,3 +3,4 @@ JavaScript Neural Networks Opportunities don't happen. You create them. Framewor
 Version Control Zero Downtime Deployment Act as if what you do makes a difference. It does. Blockchain Deployment Cloud Machine Learning Event-driven Architecture Container Orchestration
 WebSockets To be the best, you must be able to handle the worst. Quantum Computing The only way to do great work is to love what you do. Automation Blockchain Kubernetes RabbitMQ Lambda Functions
 Code Review RabbitMQ Database Containerization Automation I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Agile Replica Set Sharding Predictive Analytics Frontend
+Innovation distinguishes between a leader and a follower. JWT Optimization Big Data Container Orchestration GraphQL Version Control Cloud Database Indexing The only way to do great work is to love what you do.
