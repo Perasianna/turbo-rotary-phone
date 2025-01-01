@@ -5,3 +5,4 @@ GraphQL Opportunities don't happen. You create them. Logging Code Review Machine
 Message Queue Firewalls Data Pipeline Success doesn’t just find you. You have to go out and get it. API Load Balancing DNS Routing Multi-threading Stay hungry, stay foolish.
 Kafka Simplicity is the ultimate sophistication. If you can dream it, you can do it. Machine Learning Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Backend OAuth API Gateway The only way to do great work is to love what you do. Replica Set
 Framework Predictive Analytics Do what you love and the money will follow. Great things never come from comfort zones. Machine Learning I find that the harder I work, the more luck I seem to have. Scalability
+NLP Stay hungry, stay foolish. Cloud Functions JWT Security Artificial Intelligence UX Optimization CI/CD Predictive Analytics Success is not in what you have, but who you are. Optimization Code Review Algorithm DevOps
