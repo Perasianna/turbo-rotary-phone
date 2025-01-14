@@ -5,3 +5,4 @@ If you can dream it, you can do it. Success usually comes to those who are too b
 Distributed Systems Predictive Analytics Load Testing DevOps Stay hungry, stay foolish. Load Balancing Multi-threading If you can dream it, you can do it. Artificial Intelligence Simplicity is the ultimate sophistication. Automation
 Container Orchestration Optimization Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Event Sourcing Monitoring Kafka
 Opportunities don't happen. You create them. OAuth Load Balancing Message Queue Event-driven Architecture
+React Innovation distinguishes between a leader and a follower. API Gateway Testing DNS Routing OAuth Data Pipeline Predictive Analytics Stay hungry, stay foolish. Framework Load Balancing GraphQL JWT
