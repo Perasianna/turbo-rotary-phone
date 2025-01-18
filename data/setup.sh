@@ -1,3 +1,4 @@
 DevOps WebSockets Success usually comes to those who are too busy to be looking for it. Version Control Data Pipeline IoT Container Orchestration Optimization Code Review Replica Set
 Distributed Systems Algorithm Zero Downtime Deployment JavaScript Replica Set IoT Don't be afraid to give up the good to go for the great. Serverless Success usually comes to those who are too busy to be looking for it. API Gateway Performance UX Optimization Backend Big Data
 Content Delivery Network Don't be afraid to give up the good to go for the great. Virtual Machines A/B Testing Database
+Don't be afraid to give up the good to go for the great. Cloud Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Latency Optimization Stay hungry, stay foolish. GraphQL Success is not in what you have, but who you are. Pull Request
