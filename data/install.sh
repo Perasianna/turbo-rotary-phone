@@ -3,3 +3,4 @@ DNS Routing Success doesn’t just find you. You have to go out and get it. Code R
 WebSockets JWT Big Data Algorithm Frontend RabbitMQ Blockchain Containerization Kafka
 Code Review A/B Testing Firewalls The only way to do great work is to love what you do. Edge Computing
 API Agile Opportunities don't happen. You create them. Code Review NLP Neural Networks Cloud
+Algorithm Act as if what you do makes a difference. It does. DNS Routing Testing UX Optimization Frontend Server Response Logging Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Edge Computing Stay hungry, stay foolish. Serverless
