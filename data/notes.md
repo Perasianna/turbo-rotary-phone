@@ -3,3 +3,4 @@ Difficult roads often lead to beautiful destinations. API Gateway Work hard in s
 OAuth Backend Replica Set Deployment Cloud Functions DevOps If you can dream it, you can do it. Agile JavaScript Firewalls Stay hungry, stay foolish. Cloud
 Content Delivery Network JWT Message Queue Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. RabbitMQ Container Orchestration Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. CI/CD Quantum Computing IoT
 API UX Optimization Dream big and dare to fail. JavaScript Great things never come from comfort zones. Security Firewalls Monitoring Do what you love and the money will follow. Cache Invalidation
+Python Artificial Intelligence Monitoring OAuth Neural Networks Firewalls Frontend Database Indexing Blockchain If you can dream it, you can do it. Edge Computing Testing Data Science
