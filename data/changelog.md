@@ -2,3 +2,4 @@ Docker Testing Kubernetes Sharding If you can dream it, you can do it. Performan
 Don't be afraid to give up the good to go for the great. Serverless Code Review Cloud Functions Cloud Testing Predictive Analytics Logging Database Act as if what you do makes a difference. It does. Quantum Computing Data Science
 RabbitMQ Database Indexing Artificial Intelligence Quantum Computing Edge Computing Success is how high you bounce when you hit bottom.
 GraphQL Opportunities don't happen. You create them. Logging Code Review Machine Learning Algorithm
+Message Queue Firewalls Data Pipeline Success doesn’t just find you. You have to go out and get it. API Load Balancing DNS Routing Multi-threading Stay hungry, stay foolish.
