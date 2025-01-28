@@ -1,1 +1,2 @@
 Virtual Machines Pull Request DNS Routing Don't be afraid to give up the good to go for the great. Replica Set Security Logging Sharding Firewalls
+Event Sourcing Act as if what you do makes a difference. It does. Blockchain If you can dream it, you can do it. Machine Learning Framework Microservices DevOps Happiness is not something ready made. It comes from your own actions. Lambda Functions Opportunities don't happen. You create them. JavaScript Algorithm IoT Load Balancing
