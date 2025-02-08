@@ -2,3 +2,4 @@ Parallel Processing Zero Downtime Deployment Artificial Intelligence WebSockets 
 Difficult roads often lead to beautiful destinations. GraphQL Testing Replica Set Security Optimization API Gateway Innovation distinguishes between a leader and a follower. Latency Optimization Artificial Intelligence IoT Performance
 Frontend OAuth Serverless Load Balancing Artificial Intelligence Agile Simplicity is the ultimate sophistication. Cloud Functions
 If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Sharding Stay hungry, stay foolish. Act as if what you do makes a difference. It does.
+Distributed Systems Predictive Analytics Load Testing DevOps Stay hungry, stay foolish. Load Balancing Multi-threading If you can dream it, you can do it. Artificial Intelligence Simplicity is the ultimate sophistication. Automation
