@@ -1,0 +1,1 @@
+Big Data Lambda Functions Data Science Parallel Processing To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. API Firewalls GraphQL
