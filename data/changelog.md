@@ -1,0 +1,1 @@
+Docker Testing Kubernetes Sharding If you can dream it, you can do it. Performance Act as if what you do makes a difference. It does. NLP Work hard in silence, let your success be your noise. Dream big and dare to fail. Logging I find that the harder I work, the more luck I seem to have.
